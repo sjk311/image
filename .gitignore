@@ -1,0 +1,5 @@
+# 이미지 폴더 제외
+captured_images/
+image/
+new/
+opencv_image/
